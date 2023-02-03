@@ -8,11 +8,10 @@ body{
 }
 #title{
     text-align: center;
-    border: 1px solid blue;
 }
 
 #img-tribute{
-    border: 1px solid rgb(255, 0, 76);
+   
     text-align: center;
     background-color: rgb(255,255,255);
 }
